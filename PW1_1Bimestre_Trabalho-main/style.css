@@ -41,7 +41,7 @@ body {
   
   .slot2 {
     left: 100px;
-    margin: 50px
+    margin: 100px
   }
   
   .play-btn {
@@ -86,8 +86,9 @@ body {
   
   /*Slot da imagem*/
   .slot3 {
-    left: 100px;
-    margin: 50px 
+    top: 300px;
+    right: 50px;
+    margin: 100px 
   }
   
   /*Tamanho da imagem*/
